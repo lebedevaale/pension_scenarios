@@ -1,0 +1,157 @@
+date,indicator,value,unit,source,note
+2015-01-01,pensioners_total,41462.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength 31.12.2014; без Крыма (Крым в системе ПФР с 2015)
+2015-01-01,pensioners_oldage_insurance,34426.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength 31.12.2014; без Крыма (Крым в системе ПФР с 2015)
+2015-01-01,pensioners_social,3008.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength 31.12.2014; без Крыма (Крым в системе ПФР с 2015)
+2015-01-01,avg_pension_all,10889.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength 31.12.2014; без Крыма (Крым в системе ПФР с 2015)
+2015-01-01,avg_pension_oldage,11569.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength 31.12.2014; без Крыма (Крым в системе ПФР с 2015)
+2015-01-01,avg_pension_social,7548.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength 31.12.2014; без Крыма (Крым в системе ПФР с 2015)
+2016-01-01,pensioners_total,42735.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength «2015 год» (на конец года)
+2016-01-01,pensioners_oldage_insurance,35559.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength «2015 год» (на конец года)
+2016-01-01,pensioners_social,3110.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength «2015 год» (на конец года)
+2016-01-01,avg_pension_all,12081.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength «2015 год» (на конец года)
+2016-01-01,avg_pension_oldage,12830.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength «2015 год» (на конец года)
+2016-01-01,avg_pension_social,8302.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength «2015 год» (на конец года)
+2017-01-01,pensioners_total,43183.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),pensioners «2016 год» (на конец года)
+2017-04-01,pensioners_total,43205.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength на 01.04.2017
+2017-04-01,pensioners_oldage_insurance,36048.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength на 01.04.2017
+2017-04-01,pensioners_social,3127.0,тыс. чел.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength на 01.04.2017
+2017-04-01,avg_pension_all,12929.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength на 01.04.2017
+2017-04-01,avg_pension_oldage,13716.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength на 01.04.2017
+2017-04-01,avg_pension_social,8791.0,руб./мес.,https://sfr.gov.ru/opendata/list.csv (наборы strength/pensioners),strength на 01.04.2017
+2018-01-01,pensioners_total,43504.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_total,43865.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_total,43546.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_total,42977.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_total,42007.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_total,41775.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_total,41075.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_total,41170.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_oldage_insurance,36336.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_oldage_insurance,36710.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_oldage_insurance,36341.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_oldage_insurance,35747.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_oldage_insurance,34638.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_oldage_insurance,34266.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_oldage_insurance,33380.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_oldage_insurance,33380.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_disability_insurance,2107.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_disability_insurance,2043.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_disability_insurance,2088.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_disability_insurance,2058.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_disability_insurance,2131.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_disability_insurance,2133.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_disability_insurance,2225.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_disability_insurance,2224.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_survivor_insurance,1408.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_survivor_insurance,1403.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_survivor_insurance,1381.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_survivor_insurance,1382.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_survivor_insurance,1399.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_survivor_insurance,1430.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_survivor_insurance,1442.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_survivor_insurance,1458.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_social,3156.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_social,3188.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_social,3198.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_social,3236.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_social,3273.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_social,3361.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_social,3414.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_social,3466.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_working_total,9669.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_working_total,9667.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_working_total,9315.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_working_total,8891.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_working_total,8513.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_working_total,7912.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_working_total,7866.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_working_total,8209.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_working_oldage,8602.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_working_oldage,8574.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_working_oldage,8197.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_working_oldage,7765.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_working_oldage,7344.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_working_oldage,6743.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_working_oldage,6593.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_working_oldage,6882.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_women,29075.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_women,29264.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_women,29039.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_women,28663.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_women,27989.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_women,27801.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_women,27389.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_women,27324.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_men,14429.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_men,14601.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_men,14507.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_men,14314.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_men,14018.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_men,13974.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_men,13686.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_men,13846.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_early_retirement,4707.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,pensioners_early_retirement,4474.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,pensioners_early_retirement,4494.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,pensioners_early_retirement,4586.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,pensioners_early_retirement,4593.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,pensioners_early_retirement,4709.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2024-01-01,pensioners_early_retirement,5095.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2025-01-01,pensioners_early_retirement,4880.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,social_topup_recipients,6270.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2019-01-01,social_topup_recipients,5987.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2020-01-01,social_topup_recipients,6350.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2021-01-01,social_topup_recipients,6220.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2022-01-01,social_topup_recipients,6134.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2023-01-01,social_topup_recipients,6247.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,в системе СФР/ПФР
+2018-01-01,pensioners_all_incl_security_agencies,46070.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,вкл. силовые ведомства
+2019-01-01,pensioners_all_incl_security_agencies,46480.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,вкл. силовые ведомства
+2020-01-01,pensioners_all_incl_security_agencies,46198.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,вкл. силовые ведомства
+2021-01-01,pensioners_all_incl_security_agencies,45637.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,вкл. силовые ведомства
+2022-01-01,pensioners_all_incl_security_agencies,44682.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,вкл. силовые ведомства
+2024-12-31,social_topup_recipients,6122.0,тыс. чел.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,
+2018-01-01,avg_pension_all,13323.1,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2019-01-01,avg_pension_all,14102.1,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2020-01-01,avg_pension_all,14904.4,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2021-01-01,avg_pension_all,15744.6,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2022-01-01,avg_pension_all,16884.1,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2023-01-01,avg_pension_all,19322.2,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2024-01-01,avg_pension_all,20781.8,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2025-01-01,avg_pension_all,23175.2,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2018-01-01,avg_pension_oldage,14151.6,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2019-01-01,avg_pension_oldage,14986.3,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2020-01-01,avg_pension_oldage,15878.4,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2021-01-01,avg_pension_oldage,16790.0,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2022-01-01,avg_pension_oldage,18084.8,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2023-01-01,avg_pension_oldage,20678.5,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2024-01-01,avg_pension_oldage,22352.9,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2025-01-01,avg_pension_oldage,24979.3,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2018-01-01,avg_pension_social,8806.6,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2019-01-01,avg_pension_social,9093.7,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2020-01-01,avg_pension_social,9298.1,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2021-01-01,avg_pension_social,9848.1,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2022-01-01,avg_pension_social,10195.2,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2023-01-01,avg_pension_social,12125.2,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2024-01-01,avg_pension_social,12516.1,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2025-01-01,avg_pension_social,13511.9,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,средний размер назначенной пенсии
+2025-01-01,avg_pension_oldage_working,21903.0,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,
+2025-01-01,avg_pension_oldage_nonworking,25778.0,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,
+2017,avg_pension_all_annual_mean,12887.0,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,"среднегодовой; 2017 без 5000, 2021 вкл. 10000"
+2018,avg_pension_all_annual_mean,13360.2,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,среднегодовой
+2019,avg_pension_all_annual_mean,14163.4,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,среднегодовой
+2020,avg_pension_all_annual_mean,14985.5,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,среднегодовой
+2021,avg_pension_all_annual_mean,16641.5,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,"среднегодовой; 2017 без 5000, 2021 вкл. 10000"
+2022,avg_pension_all_annual_mean,17824.7,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,среднегодовой
+2023,avg_pension_all_annual_mean,19489.7,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,среднегодовой
+2024,avg_pension_all_annual_mean,20963.8,руб./мес.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,среднегодовой
+2019,pensions_total_household_income_balance,8620.9,млрд руб.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,все пенсии в балансе денежных доходов населения
+2020,pensions_total_household_income_balance,9012.8,млрд руб.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,все пенсии в балансе денежных доходов населения
+2021,pensions_total_household_income_balance,9816.5,млрд руб.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,все пенсии в балансе денежных доходов населения
+2022,pensions_total_household_income_balance,10714.4,млрд руб.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,все пенсии в балансе денежных доходов населения
+2023,pensions_total_household_income_balance,11097.6,млрд руб.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,все пенсии в балансе денежных доходов населения
+2024,pensions_total_household_income_balance,12204.0,млрд руб.,https://rosstat.gov.ru/storage/mediabank/Soc_pol_07_2025.xlsx,все пенсии в балансе денежных доходов населения
+2023-12-31,avg_pension_oldage_insurance,21042.0,руб./мес.,https://www.consultant.ru/law/hotdocs/85487.html,
+2025,avg_pension_oldage_insurance_annual,25249.0,руб./мес.,http://council.gov.ru/events/news/177588/,
+2027-12-31,avg_pension_oldage_insurance_plan,29903.81,руб./мес.,https://base.garant.ru/411685511/,план
+2027-12-31,avg_pension_social_plan,17585.69,руб./мес.,https://base.garant.ru/411685511/,план
+all,median_pension,,руб./мес.,,НЕ ПУБЛИКУЕТСЯ — см. data_gaps

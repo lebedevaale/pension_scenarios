@@ -1,0 +1,46 @@
+year,indicator,value,unit,status,source,note
+2015,cpi_dec_dec,112.9,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2016,cpi_dec_dec,105.4,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2017,cpi_dec_dec,102.5,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2018,cpi_dec_dec,104.3,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2019,cpi_dec_dec,103.0,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2020,cpi_dec_dec,104.9,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2021,cpi_dec_dec,108.4,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2022,cpi_dec_dec,111.9,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2023,cpi_dec_dec,107.4,%,fact,https://rosstat.gov.ru/statistics/price,Росстат; сверить с официальной таблицей
+2024,cpi_dec_dec,109.52,%,fact,https://www.garant.ru/products/ipo/prime/doc/413357978/,
+2025,cpi_dec_dec,105.59,%,fact,https://www.garant.ru/products/ipo/prime/doc/413357978/,
+2024,cpi_annual_avg,108.45,%,fact,https://www.garant.ru/products/ipo/prime/doc/413357978/,
+2025,cpi_annual_avg,108.69,%,fact,https://www.garant.ru/products/ipo/prime/doc/413357978/,
+2025,cpi_dec_dec_mer,105.6,%,estimate,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2025,cpi_annual_avg_mer,108.7,%,estimate,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2025,gdp_nominal,214261.0,млрд руб.,estimate,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2025,gdp_real_growth,101.0,%,estimate,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2025,gdp_deflator,104.9,%,estimate,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2025,subsistence_min_per_capita,17733.0,руб./мес.,estimate,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2026,cpi_dec_dec_mer,106.8,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2026,cpi_annual_avg_mer,106.1,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2026,gdp_nominal,232318.0,млрд руб.,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2026,gdp_real_growth,100.6,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2026,gdp_deflator,107.8,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2026,subsistence_min_per_capita,18939.0,руб./мес.,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2027,cpi_dec_dec_mer,104.0,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2027,cpi_annual_avg_mer,105.0,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2027,gdp_nominal,248323.0,млрд руб.,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2027,gdp_real_growth,101.4,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2027,gdp_deflator,105.4,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2027,subsistence_min_per_capita,20227.0,руб./мес.,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2028,cpi_dec_dec_mer,104.0,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2028,cpi_annual_avg_mer,104.0,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2028,gdp_nominal,263724.0,млрд руб.,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2028,gdp_real_growth,101.9,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2028,gdp_deflator,104.2,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2028,subsistence_min_per_capita,21036.0,руб./мес.,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2029,cpi_dec_dec_mer,104.0,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2029,cpi_annual_avg_mer,104.0,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2029,gdp_nominal,281674.0,млрд руб.,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2029,gdp_real_growth,102.4,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2029,gdp_deflator,104.3,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2029,subsistence_min_per_capita,21877.0,руб./мес.,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,"прогноз МЭР (сентябрь 2026), базовый"
+2027,cpi_dec_dec_mer_conservative,105.3,%,forecast_conservative,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,
+2026,unemployment_rate,2.3,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/ ; https://pravo.ppt.ru/pismo/minekonomrazvitiya/n-36459-pk-d03i-356573,≈2.3% на горизонте прогноза

@@ -1,0 +1,142 @@
+year,indicator,value_bn_rub,status,source,note
+2015,contrib_ops_for_insurance_pension,3864.4,fact,"https://sfr.gov.ru/opendata/list.csv (budget/budgetd, ПФР); страховые пенсии: https://base.garant.ru/57261039/",все взносы на ОПС
+2016,contrib_ops_for_insurance_pension,4130.9,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,все взносы на ОПС
+2017,contrib_ops_for_insurance_pension,4480.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,contrib_ops_for_insurance_pension,4947.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,contrib_ops_for_insurance_pension,5393.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,contrib_ops_for_insurance_pension,5448.6,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,contrib_ops_for_insurance_pension,5962.2,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,contrib_ops_for_insurance_pension,6189.4,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,contrib_ops_for_insurance_pension,7743.1,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,
+2024,contrib_ops_for_insurance_pension,9324.2,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,
+2025,contrib_ops_for_insurance_pension,10849.7,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx ; https://base.garant.ru/411684248/,
+2015,expenditure_total,7670.3,fact,"https://sfr.gov.ru/opendata/list.csv (budget/budgetd, ПФР); страховые пенсии: https://base.garant.ru/57261039/",бюджет ПФР (до объединения с ФСС)
+2016,expenditure_total,7829.7,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,бюджет ПФР (до объединения с ФСС)
+2017,expenditure_total,8319.5,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,expenditure_total,8428.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,expenditure_total,8627.1,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,expenditure_total,9727.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,expenditure_total,10125.1,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,expenditure_total,11374.3,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,expenditure_total,13858.3,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,бюджет СФР целиком (вкл. ОСС и переданные полномочия)
+2024,expenditure_total,16275.8,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,бюджет СФР целиком (вкл. ОСС и переданные полномочия)
+2025,expenditure_total,17596.7,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx ; https://base.garant.ru/411684248/,бюджет СФР целиком (вкл. ОСС и переданные полномочия)
+2027,expenditure_total,19883.0,plan,https://www.interfax.ru/business/1125862,
+2028,expenditure_total,20917.0,plan,https://www.interfax.ru/business/1125862,
+2029,expenditure_total,22162.0,plan,https://www.interfax.ru/business/1125862,
+2015,fed_comp_reduced_tariffs,342.9,fact,"https://sfr.gov.ru/opendata/list.csv (budget/budgetd, ПФР); страховые пенсии: https://base.garant.ru/57261039/",бюджет ПФР (до объединения с ФСС)
+2016,fed_comp_reduced_tariffs,392.0,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,бюджет ПФР (до объединения с ФСС)
+2017,fed_comp_reduced_tariffs,434.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,fed_comp_reduced_tariffs,499.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,fed_comp_reduced_tariffs,54.6,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,fed_comp_reduced_tariffs,69.3,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,fed_comp_reduced_tariffs,478.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,fed_comp_reduced_tariffs,499.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,fed_comp_reduced_tariffs,667.2,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,ОПС+ОСС
+2024,fed_comp_reduced_tariffs,788.4,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,
+2025,fed_comp_reduced_tariffs,0.0,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx ; https://base.garant.ru/411684248/,
+2016,fed_for_insurance_pensions_total,988.6,fact,https://sfr.gov.ru/press_center/news~2017/10/17/144919,
+2023,fed_for_insurance_pensions_total,1452.4,fact,https://base.garant.ru/409264054/,все средства фед. бюджета на страховые пенсии
+2024,fed_for_insurance_pensions_total,1375.8,fact,https://base.garant.ru/412372092/,
+2017,fed_gov_pensions_and_other_payments,864.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,fed_gov_pensions_and_other_payments,639.4,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,fed_gov_pensions_and_other_payments,663.5,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,fed_gov_pensions_and_other_payments,719.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,fed_gov_pensions_and_other_payments,745.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,fed_gov_pensions_and_other_payments,1328.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,fed_gov_pensions_and_other_payments,886.0,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,
+2016,fed_noninsurance_periods,12.1,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,бюджет ПФР (до объединения с ФСС)
+2017,fed_noninsurance_periods,16.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,fed_noninsurance_periods,25.2,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,fed_noninsurance_periods,95.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,fed_noninsurance_periods,100.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,fed_noninsurance_periods,115.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,fed_noninsurance_periods,219.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,fed_noninsurance_periods,55.0,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,
+2024,fed_noninsurance_periods,162.2,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,
+2015,fed_ops_balancing,814.2,fact,"https://sfr.gov.ru/opendata/list.csv (budget/budgetd, ПФР); страховые пенсии: https://base.garant.ru/57261039/",бюджет ПФР (до объединения с ФСС)
+2017,fed_ops_balancing,932.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,fed_ops_balancing,632.4,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,fed_ops_balancing,1065.2,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,fed_ops_balancing,1695.3,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,fed_ops_balancing,254.5,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,fed_ops_balancing,980.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,fed_ops_balancing,317.9,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,
+2024,fed_ops_balancing,0.0,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,
+2015,fed_transfers_total,3088.7,fact,"https://sfr.gov.ru/opendata/list.csv (budget/budgetd, ПФР); страховые пенсии: https://base.garant.ru/57261039/",бюджет ПФР (до объединения с ФСС)
+2016,fed_transfers_total,3352.2,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,бюджет ПФР (до объединения с ФСС)
+2017,fed_transfers_total,3680.4,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,fed_transfers_total,3232.3,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,fed_transfers_total,3312.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,fed_transfers_total,4788.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,fed_transfers_total,3769.6,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,fed_transfers_total,6084.1,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,fed_transfers_total,4109.3,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,
+2024,fed_transfers_total,5479.7,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,
+2025,fed_transfers_total,3186.3,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx ; https://base.garant.ru/411684248/,
+2027,fed_transfers_total,3971.0,plan,https://www.interfax.ru/business/1125862,
+2028,fed_transfers_total,4201.0,plan,https://www.interfax.ru/business/1125862,
+2029,fed_transfers_total,4441.0,plan,https://www.interfax.ru/business/1125862,
+2017,fed_valorization,688.4,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,fed_valorization,682.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,fed_valorization,692.4,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,fed_valorization,694.1,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,fed_valorization,705.6,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,fed_valorization,1327.5,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,fed_valorization,485.0,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,
+2024,fed_valorization,425.2,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,
+2027,ops_expenditure,13389.0,plan,https://www.interfax.ru/business/1125862,расходы по ОПС
+2027,ops_revenue,13305.0,plan,https://www.interfax.ru/business/1125862,доходы по ОПС
+2015,revenue_total,7126.6,fact,"https://sfr.gov.ru/opendata/list.csv (budget/budgetd, ПФР); страховые пенсии: https://base.garant.ru/57261039/",бюджет ПФР (до объединения с ФСС)
+2016,revenue_total,7625.2,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,бюджет ПФР (до объединения с ФСС)
+2017,revenue_total,8260.1,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,revenue_total,8269.6,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,revenue_total,8781.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,revenue_total,10303.3,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,revenue_total,9794.3,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,revenue_total,12477.8,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,revenue_total,13264.9,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,бюджет СФР целиком (вкл. ОСС и переданные полномочия)
+2024,revenue_total,16830.7,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,бюджет СФР целиком (вкл. ОСС и переданные полномочия)
+2025,revenue_total,16357.2,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx ; https://base.garant.ru/411684248/,бюджет СФР целиком (вкл. ОСС и переданные полномочия)
+2027,revenue_total,19914.0,plan,https://www.interfax.ru/business/1125862,
+2028,revenue_total,21214.0,plan,https://www.interfax.ru/business/1125862,
+2029,revenue_total,22518.0,plan,https://www.interfax.ru/business/1125862,
+2015,spend_federal_social_topup_FSD,42.1,fact,"https://sfr.gov.ru/opendata/list.csv (budget/budgetd, ПФР); страховые пенсии: https://base.garant.ru/57261039/",бюджет ПФР (до объединения с ФСС)
+2016,spend_federal_social_topup_FSD,99.8,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,бюджет ПФР (до объединения с ФСС)
+2017,spend_federal_social_topup_FSD,96.8,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,spend_federal_social_topup_FSD,91.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,spend_federal_social_topup_FSD,94.4,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,spend_federal_social_topup_FSD,71.2,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,spend_federal_social_topup_FSD,78.8,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,spend_federal_social_topup_FSD,102.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,spend_federal_social_topup_FSD,100.7,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,
+2024,spend_federal_social_topup_FSD,112.7,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,
+2025,spend_federal_social_topup_FSD,151.3,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx ; https://base.garant.ru/411684248/,
+2015,spend_insurance_pensions,5782.1,fact,"https://sfr.gov.ru/opendata/list.csv (budget/budgetd, ПФР); страховые пенсии: https://base.garant.ru/57261039/",определение (с доставкой/без) не уточнено; бюджет ПФР (до объединения с ФСС)
+2016,spend_insurance_pensions,6050.2,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,с учётом доставки; бюджет ПФР (до объединения с ФСС)
+2017,spend_insurance_pensions,6378.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",с учётом доставки; бюджет ПФР (до объединения с ФСС)
+2018,spend_insurance_pensions,6748.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",с учётом доставки; бюджет ПФР (до объединения с ФСС)
+2019,spend_insurance_pensions,7053.4,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",с учётом доставки; бюджет ПФР (до объединения с ФСС)
+2020,spend_insurance_pensions,7415.0,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",с учётом доставки; бюджет ПФР (до объединения с ФСС)
+2021,spend_insurance_pensions,7691.1,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",с учётом доставки; бюджет ПФР (до объединения с ФСС)
+2022,spend_insurance_pensions,8819.8,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",с учётом доставки; бюджет ПФР (до объединения с ФСС)
+2023,spend_insurance_pensions,9057.8,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,с учётом доставки
+2024,spend_insurance_pensions,10149.2,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,с учётом доставки
+2025,spend_insurance_pensions,11360.8,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx ; https://base.garant.ru/411684248/,с учётом доставки
+2027,spend_insurance_pensions,12970.1,plan,https://www.interfax.ru/business/1125862 ; https://base.garant.ru/411685511/,закон/проект о бюджете СФР на 2027–2029
+2028,spend_insurance_pensions,13691.6,plan,https://www.interfax.ru/business/1125862 ; https://base.garant.ru/411685511/,закон/проект о бюджете СФР на 2027–2029
+2029,spend_insurance_pensions,14640.0,plan,https://www.interfax.ru/business/1125862 ; https://base.garant.ru/411685511/,закон/проект о бюджете СФР на 2027–2029
+2021,spend_one_off_10000_payment,429.7,fact,https://sfr.gov.ru/opendata/list.csv,единовременная выплата 10000 ₽ пенсионерам (сент. 2021)
+2017,spend_one_off_5000_payment,,gap,,единовременная выплата 5000 ₽ в янв. 2017 — сумма не собрана
+2016,spend_state_pensions_166fz,414.9,fact,http://www.kremlin.ru/acts/bank/42384/print ; https://sfr.gov.ru/files/id/press_center/godovoi_otchet/Annual_report_2016_3.pdf ; https://sfr.gov.ru/opendata/list.csv,бюджет ПФР (до объединения с ФСС)
+2017,spend_state_pensions_166fz,432.6,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2018,spend_state_pensions_166fz,453.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2019,spend_state_pensions_166fz,459.9,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2020,spend_state_pensions_166fz,486.2,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2021,spend_state_pensions_166fz,514.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2022,spend_state_pensions_166fz,607.7,fact,"https://sfr.gov.ru/opendata/list.csv (наборы 7706016118-budget и -budgetd, исполнение бюджета ПФР)",бюджет ПФР (до объединения с ФСС)
+2023,spend_state_pensions_166fz,638.3,fact,https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_dohodam_.csv ; https://sfr.gov.ru/files/id/open_data/2024/Ispolnenie_byudjeta_SFR_po_rashodam_.csv,
+2024,spend_state_pensions_166fz,721.0,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc ; https://base.garant.ru/412372092/,
+2025,spend_state_pensions_166fz,844.7,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx ; https://base.garant.ru/411684248/,
+2024,wage_fund_contrib_base,48609.8,fact,https://sfr.gov.ru/files/id/docman/_2025/Poyasneniya.doc,"ФОТ, на который начисляются взносы"
+2025,wage_fund_contrib_base,55558.1,fact,https://sfr.gov.ru/files/id/about/2026/Poyasnitelnayazapiska2025.docx,"ФОТ, на который начисляются взносы"

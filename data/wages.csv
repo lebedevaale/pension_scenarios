@@ -1,0 +1,37 @@
+year,indicator,value,unit,status,source,note
+2015,avg_nominal_wage,34030.0,руб./мес.,fact,https://www.rosstat.gov.ru/storage/mediabank/soc-pol.pdf,без новых регионов с 2022
+2016,avg_nominal_wage,36709.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2017,avg_nominal_wage,39167.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2018,avg_nominal_wage,43724.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2019,avg_nominal_wage,47867.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2020,avg_nominal_wage,51344.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2021,avg_nominal_wage,57244.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2022,avg_nominal_wage,65338.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2023,avg_nominal_wage,74854.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2024,avg_nominal_wage,89069.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2025,avg_nominal_wage,101784.0,руб./мес.,fact,https://www.consultant.ru/document/cons_doc_LAW_326052/,без новых регионов с 2022
+2019,median_wage_annual_admin,30458.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Mediana_2019-2024.xlsx,по данным СФР (админ.)
+2020,median_wage_annual_admin,32422.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Mediana_2019-2024.xlsx,по данным СФР (админ.)
+2021,median_wage_annual_admin,35370.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Mediana_2019-2024.xlsx,по данным СФР (админ.)
+2022,median_wage_annual_admin,40368.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Mediana_2019-2024.xlsx,по данным СФР (админ.)
+2023,median_wage_annual_admin,46751.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Mediana_2019-2024.xlsx,по данным СФР (админ.)
+2024,median_wage_annual_admin,56443.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Mediana_2019-2024.xlsx,по данным СФР (админ.)
+2019,april_survey_mean_wage,47657.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2019,april_survey_median_wage,34335.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2019,april_survey_mode_wage,23510.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2021,april_survey_mean_wage,56280.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2021,april_survey_median_wage,40245.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2021,april_survey_mode_wage,27639.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2023,april_survey_mean_wage,72490.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2023,april_survey_median_wage,52558.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2023,april_survey_mode_wage,35514.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2025,april_survey_mean_wage,99399.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2025,april_survey_median_wage,73871.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2025,april_survey_mode_wage,50994.0,руб./мес.,fact,https://rosstat.gov.ru/storage/mediabank/Soc_pol_06_2025.xlsx,обследование за апрель (нечётные годы)
+2017,april_survey_median_wage,28345.0,руб./мес.,fact,https://rosstat.gov.ru/folder/13397,обследование апрель 2017; проверить
+2025,real_wage_growth_forecast,5.2,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/,прогноз МЭР (базовый)
+2026,real_wage_growth_forecast,4.0,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/,прогноз МЭР (базовый)
+2027,real_wage_growth_forecast,1.8,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/,прогноз МЭР (базовый)
+2028,real_wage_growth_forecast,2.8,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/,прогноз МЭР (базовый)
+2029,real_wage_growth_forecast,3.0,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/,прогноз МЭР (базовый)
+2026,nominal_wage_growth_forecast,10.3,%,forecast_base,https://base.garant.ru/414986226/f7ee959fd36b5699076b35abf4f52c5c/,
